@@ -1,16 +1,13 @@
-## Hi there 👋
+# Maruf Abdullah
 
-<!--
-**helloomaruf/helloomaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer & Landing Page Designer
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+    <a href="#"><img style="border-radius: 5px" src="assets/FACEBOOK.svg" alt="Facebook"></a>
+    <a href="#"><img style="border-radius: 5px" src="assets/LINKEDIN.svg" alt="LinkedIn"></a>
+    <a href="#"><img src="assets/buymeacoffee.webp" alt="Buy Me A Coffee" style="width: 95px"></a>
+    <a href="#"><img src="assets/WEBSITE.svg" alt="Website" style="border-radius: 5px"></a>
+</div>
+</br>
