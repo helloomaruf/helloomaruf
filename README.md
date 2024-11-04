@@ -18,4 +18,13 @@
     <img src="assets/tech/php.png" alt="PHP" height="60px" width="60px">
     <img src="assets/tech/laravel-2.svg" alt="Laravel" height="60px" width="60px">
     <img src="assets/tech/click-funnels.svg" alt="ClickFunnels" height="60px" width="60px">
+    <img src="assets/tech/ghl-logo.jpeg" alt="GoHighLevel" height="60px" width="60px">
+</div>
+
+### Favorite Tools
+
+<div style="display: flex;">
+    <img src="assets/tech/PhpStorm.svg" alt="PHP Strom" height="60px" width="60px">
+    <img src="assets/tech/VisualStudio.svg" alt="Visual Studio" height="60px" width="60px">
+    <img src="assets/tech/Git.svg" alt="Git" height="60px" width="60px">
 </div>
